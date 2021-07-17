@@ -16,3 +16,12 @@ Then use a tool like Rufus to Extract the Files to USB
 You can get that here -> https://rufus.ie/en_US/
 
 Restart you Computer and load the files from your USB and enjoy Windows 11!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Okay.. I swear nothing seems to be working for this. GitHub currupts the .iso then the Google drive link doesn't want to work. So version 3 will consist another link for you guys to try.
+It'll be a MEGA link. it will be downloadable! 
+
+Version 3 will be out sometime tomorrow.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
